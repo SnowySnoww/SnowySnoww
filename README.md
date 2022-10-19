@@ -1,6 +1,6 @@
 ![My Image](pexels-stefan-stefancik.jpg)
-# About me
-- :snowman: My name is Felipe Neves
+# 📖 About me 
+- ⛄ My name is Felipe Neves
 - 💻 Working with Front-End Development
 - 🌱 Currently studying Vue.Js
 - 📑 Planning on studying REACT and SQL in the near future
@@ -16,6 +16,22 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/felipe-rodolfo-ribeiro-das-neves-485361183/
+
+-------
+# 📖 Sobre mim
+- ⛄ Meu nome é Felipe Neves
+- 💻 Trabalhando com Desenvolvimento Front-End
+- 🌱 Atualmente estudando Vue.Js
+- 📑 Planejando estudar REACT e SQL em um futuro próximo
+
+## Coisas que eu amo
+- 🎮 Jogar 
+- 📺 Assistir filmes e séries
+- 🎶 Música
+
+## Entre em contato comigo
+[<img width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+
 <!--
 **SnowySnoww/SnowySnoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,4 +47,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Amazing image by Stefan Stefancik in Pexels.com
+Amazing image by Stefan Stefancik at Pexels.com
