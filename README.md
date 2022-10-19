@@ -1,5 +1,5 @@
 ![My Image](pexels-stefan-stefancik.jpg)
-[# About me:]
+[About me:]
 - :snowman: My name is Felipe Neves
 - 💻 Working with Front-End Development
 - 🌱 Currently studying Vue.Js
