@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*Amazing header image by Stefan Stefancik at Pexels.com*
+<sub>*Amazing header image by Stefan Stefancik at Pexels.com*</sub>
