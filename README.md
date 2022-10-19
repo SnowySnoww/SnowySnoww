@@ -1,4 +1,4 @@
-![My Image](pexels-stefan-stefancik.jpg)
+![My Image](pexels-invisiblepower.jpg)
 ### Hi there 👋
 
 <!--
