@@ -10,7 +10,7 @@
 - 📺 Watching movies and series
 - 🎶 Music
 
-## Get in touch with me
+## Get in touch with me || Entre em contato comigo
 [<img width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -28,9 +28,6 @@
 - 🎮 Jogar 
 - 📺 Assistir filmes e séries
 - 🎶 Música
-
-## Entre em contato comigo
-[<img width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
 <!--
 **SnowySnoww/SnowySnoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
