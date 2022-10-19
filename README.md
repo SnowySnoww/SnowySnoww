@@ -1,14 +1,14 @@
 ![My Image](pexels-stefan-stefancik.jpg)
 # 📖 About me - Sobre mim
-- ⛄ My name is Felipe Neves - Meu nome é Felipe Neves
-- 💻 Working with Front-End Development - Trabalhando com Desenvolvimento Front-End
-- 🌱 Currently studying Vue.Js - Atualmente estudando Vue.Js
-- 📑 Planning on studying REACT and SQL in the near future - Planejando estudar REACT e SQL em um futuro próximo
+- ⛄ My name is Felipe Neves - ***Meu nome é Felipe Neves***
+- 💻 Working with Front-End Development - ***Trabalhando com Desenvolvimento Front-End***
+- 🌱 Currently studying Vue.Js - ***Atualmente estudando Vue.Js***
+- 📑 Planning on studying REACT and SQL in the near future - ***Planejando estudar REACT e SQL em um futuro próximo***
 
-## Things I love - Coisas que eu amo
-- 🎮 Playing games - Jogar 
-- 📺 Watching movies and series - Assistir filmes e séries
-- 🎶 Music - Música
+## Things I love - ***Coisas que eu amo***
+- 🎮 Playing games - ***Jogar*** 
+- 📺 Watching movies and series - ***Assistir filmes e séries***
+- 🎶 Music - ***Música***
 
 ## Get in touch with me - Entre em contato comigo
 [<img width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
