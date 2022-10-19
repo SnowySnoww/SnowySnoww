@@ -1,16 +1,19 @@
 ![My Image](pexels-stefan-stefancik.jpg)
-# About me:
+# About me
 - :snowman: My name is Felipe Neves
 - 💻 Working with Front-End Development
 - 🌱 Currently studying Vue.Js
 - 📑 Planning on studying REACT and SQL in the near future
 
-## Things I love: 
+## Things I love
 - 🎮 Playing games 
 - 📺 Watching movies and series
 - 🎶 Music
 
+## Get in touch with me
+[<img align="left" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
+[linkedin]: https://www.linkedin.com/in/felipe-rodolfo-ribeiro-das-neves-485361183/
 <!--
 **SnowySnoww/SnowySnoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
