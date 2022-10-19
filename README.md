@@ -1,6 +1,6 @@
 ![My Image](pexels-stefan-stefancik.jpg)
 # 📖 About me - Sobre mim
-- ⛄ <span style="color: #848484">My name is Felipe Neves</span> - ***Meu nome é Felipe Neves***
+- ⛄ <span style="color: #848484 !important">My name is Felipe Neves</span> - ***Meu nome é Felipe Neves***
 - 💻 <span>Working with Front-End Development</span> - ***Trabalhando com Desenvolvimento Front-End***
 - 🌱 <span>Currently studying Vue.Js</span> - ***Atualmente estudando Vue.Js***
 - 📑 <span>Planning on studying REACT and SQL in the near future</span> - ***Planejando estudar REACT e SQL em um futuro próximo***
