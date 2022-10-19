@@ -1,4 +1,4 @@
-![My Image](my-image.jpg)
+![My Image](pexels-invisiblepower.jpg)
 ### Hi there 👋
 
 <!--
