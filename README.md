@@ -1,3 +1,4 @@
+![Alt text](/posts/path/to/pexels-invisiblepower.jpg "Optional title")
 ### Hi there 👋
 
 <!--
