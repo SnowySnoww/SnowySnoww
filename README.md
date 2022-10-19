@@ -1,33 +1,22 @@
 ![My Image](pexels-stefan-stefancik.jpg)
-# 📖 About me 
-- ⛄ My name is Felipe Neves
-- 💻 Working with Front-End Development
-- 🌱 Currently studying Vue.Js
-- 📑 Planning on studying REACT and SQL in the near future
+# 📖 About me - Sobre mim
+- ⛄ My name is Felipe Neves - Meu nome é Felipe Neves
+- 💻 Working with Front-End Development - Trabalhando com Desenvolvimento Front-End
+- 🌱 Currently studying Vue.Js - Atualmente estudando Vue.Js
+- 📑 Planning on studying REACT and SQL in the near future - Planejando estudar REACT e SQL em um futuro próximo
 
-## Things I love
-- 🎮 Playing games 
-- 📺 Watching movies and series
-- 🎶 Music
+## Things I love - Coisas que eu amo
+- 🎮 Playing games - Jogar 
+- 📺 Watching movies and series - Assistir filmes e séries
+- 🎶 Music - Música
 
-## Get in touch with me || Entre em contato comigo
+## Get in touch with me - Entre em contato comigo
 [<img width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/felipe-rodolfo-ribeiro-das-neves-485361183/
 
--------
-# 📖 Sobre mim
-- ⛄ Meu nome é Felipe Neves
-- 💻 Trabalhando com Desenvolvimento Front-End
-- 🌱 Atualmente estudando Vue.Js
-- 📑 Planejando estudar REACT e SQL em um futuro próximo
-
-## Coisas que eu amo
-- 🎮 Jogar 
-- 📺 Assistir filmes e séries
-- 🎶 Música
 
 <!--
 **SnowySnoww/SnowySnoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
