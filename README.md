@@ -1,6 +1,12 @@
 ![My Image](pexels-stefan-stefancik.jpg)
-### Hi there 👋
-
+[# About me:]
+- :snowman: My name is Felipe Neves
+- 💻 Working with Front-End Development
+- 🌱 Currently studying Vue.Js
+- 📑 Planning on studying REACT and SQL in the near future
+- 🎮 I like playing games 
+- 📺 And watching movies and series
+- 🎶 I also love music
 <!--
 **SnowySnoww/SnowySnoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
