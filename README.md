@@ -1,4 +1,4 @@
-![Alt text](/posts/path/to/pexels-invisiblepower.jpg "Optional title")
+![My Image](my-image.jpg)
 ### Hi there 👋
 
 <!--
