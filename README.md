@@ -1,4 +1,4 @@
-![My Image](pexels-stefan-stefancik.jpg)
+<!-- ![My Image](pexels-stefan-stefancik.jpg) -->
 # 📖 About me || Sobre mim
 - ⛄ My name is Felipe Neves || ***Meu nome é Felipe Neves*** 
 - 💻 Working with Front-End Development with Vue.Js and Vuetify || ***Trabalhando com Desenvolvimento Front-End com Vue.Js e Vuetify***
@@ -32,5 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 <sub>*Amazing header image by Stefan Stefancik at Pexels.com*</sub>
+ -->
