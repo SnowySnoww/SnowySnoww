@@ -1,9 +1,7 @@
 <!-- ![My Image](pexels-stefan-stefancik.jpg) -->
 # 📖 About me || Sobre mim
 - ⛄ My name is Felipe Neves || ***Meu nome é Felipe Neves*** 
-- 💻 Working with Front-End Development with Vue.Js and Vuetify || ***Trabalhando com Desenvolvimento Front-End com Vue.Js e Vuetify***
-- 🌱 Currently studying React || ***Atualmente estudando React***
-- 📑 Planning on studying Node.Js in the near future || ***Planejando estudar Node.Js em um futuro próximo***
+- 💻 Working with Fullstack Development with React and Node.js || ***Trabalhando com Desenvolvimento Fullstack com React e Node.js***
 
 ## Things I love || Coisas que eu amo
 - 🎮 Playing games || ***Jogar*** 
