@@ -1,7 +1,7 @@
 <!-- ![My Image](pexels-stefan-stefancik.jpg) -->
 # 📖 About me || Sobre mim
 - ⛄ My name is Felipe Neves || ***Meu nome é Felipe Neves*** 
-- 💻 Working with Fullstack Development with React and Node.js || ***Trabalhando com Desenvolvimento Fullstack com React e Node.js***
+- 💻 Working with Fullstack Development using React and Node.js || ***Trabalhando com Desenvolvimento Fullstack usando React e Node.js***
 
 ## Things I love || Coisas que eu amo
 - 🎮 Playing games || ***Jogar*** 
